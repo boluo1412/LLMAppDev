@@ -1,0 +1,13 @@
+# 忽略环境变量文件
+.env
+
+# 忽略 Jupyter 缓存
+.ipynb_checkpoints/
+
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+llm-universe/
+
+miniconda3/
